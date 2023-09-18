@@ -26,7 +26,7 @@ class FirstScreen extends StatefulWidget {
 class _FirstScreenState extends State<FirstScreen> {
   int scoreTeamA = 0;
   int scoreTeamB = 0;
-
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
